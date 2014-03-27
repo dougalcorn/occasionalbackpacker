@@ -13,3 +13,6 @@ ground.
 
 If you like, you can [email me](mailto:dougalcorn@gmail.com) or
 [follow me on Twitter](http://twitter.com/dougalcorn).
+
+If you want to go back to the beginning, you can read about how I
+[got started in backpacking](/posts/getting-started-backpacking.html).
