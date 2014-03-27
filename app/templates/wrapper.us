@@ -6,19 +6,27 @@
     <title><%= site.title %><%= post ? ' - '+post.title() : '' %></title>
   </head>
   <body>
-    <header>
-      <h1><%= site.title %></h1>
-      <nav>
-        <a href="/">home</a> | <a href="/archive.html">archives</a> | <a href="/about.html">about</a>
-      </nav>
+    <header class="navbar navbar-static-top">
+      <div class="container">
+        <div class="navbar-header">
+          <span class="navbar-brand"><%= site.title %></span>
+        </div>
+        <nav>
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="/">home</a></li>
+            <li><a href="/archive.html">archives</a></li>
+            <li><a href="/about.html">about</a></li>
+          </ul>
+        </nav>
+      </div>
     </header>
+    <div class="container">
+      <%= yield %>
+    </div>
 
-    <%= yield %>
-
-    <footer>
+    <footer class="container text-right">
       Copyright <%= site.author %>, <%= new Date().getFullYear() %>.
     </footer>
     <script type="text/javascript" src="<%= js %>"></script>
   </body>
 </html>
-
