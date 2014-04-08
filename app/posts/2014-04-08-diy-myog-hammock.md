@@ -73,8 +73,14 @@ Here's another point to consider. The table cloth hammock is
 definitely heavier than the Warbonnet Traveler. For backpacking, I'm
 not sure the table cloth hammock is a good choice. Making a double
 layer hammock out of light weight 1.1oz Ripstop Nylon is about $40 not
-including the ridge line or suspension. So really, the Warbonnet
-Traveler is a great deal.
+including the ridge line or suspension. So really, both the Warbonnet
+Traveler and the BIAS camper hammock are a great deal.
+
+Yet another additional cost is some kind of stuff sack to pack the
+hammock. My DIY doesn't include one. All of the commercial hammocks
+do. Since my intent is indoor only, that doesn't really matter.
+Strictly speaking, I probably don't need a stuff sack for backpacking
+either. But it is nice to have one.
 
 I chose to go with whoopie slings for suspension. My goal here is only
 to hang indoors. My thought was that I could easily put hooks in the
