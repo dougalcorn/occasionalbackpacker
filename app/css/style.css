@@ -1,0 +1,15 @@
+body {
+  font-size: 16px;
+}
+
+.img-left {
+  float:left;
+  width:408px;
+  margin: 15px;
+}
+
+.img-right {
+  float:left;
+  width:408px;
+  margin: 15px;
+}
