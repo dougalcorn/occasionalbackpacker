@@ -3,7 +3,7 @@ title: "Solo overnight trip to Archers Fork Loop in The Wayne National Forest"
 date: "2013-08-28"
 ---
 
-I was having a bad time at work and finally decided spur of the moment
+<img src="/img/bridge-near-aft.JPG" class="img-left" />I was having a bad time at work and finally decided spur of the moment
 to take a couple days off in the middle of the week. I had been
 wanting to hike the Archers Fork Loop for a while. I was most
 attracted to the solitude. I had a bunch of self-reflection to do and
