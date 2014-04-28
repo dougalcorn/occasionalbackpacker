@@ -52,7 +52,7 @@ these shops are literally one guy and his wife working as hard as they
 can. The gear is designed very specifically towards light weight
 hammock backpacking.
 
-* [Warbonnet Outdoors][http://www.warbonnetoutdoors.com/] - Excellent
+* [Warbonnet Outdoors](http://www.warbonnetoutdoors.com/) - Excellent
   hammocks. I have a Blackbird XLC and a Yeti three season underquilt.
   The WB "Superfly" and "Mambajamba" are probably the two most popular
   tarps on HF.
