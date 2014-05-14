@@ -14,7 +14,7 @@ miss about the ENO is to just hang the hammock and get in. The
 Hennessy is more of a tent that's hanging above the ground. When
 you're in it you're somewhat isolated from the outside around you.
 
-I'm wanting to hand indoors. I think the large, tent-like structure of
+I'm wanting to hang indoors. I think the large, tent-like structure of
 the Hennessy is quite off-putting to my wife. So, I've been looking at
 getting another hammock without an integrated bug net or attached
 tarp. There are lots of options for commercial hammocks:
