@@ -377,3 +377,7 @@ trip? Should I have recognized my limitations and lack of preparedness
 and just stayed home? It seems like the wise answer is "yes, I should
 have stayed home." But there's also something to be said for pushing
 your limits and taking the opportunities that come.
+
+*UPDATE: There's a nice discussion following this post about
+ [knowing your limits](https://www.hammockforums.net/forum/showthread.php?93199-How-I-almost-died-on-Mt-Le-Conte)
+ over on HammockForums.net*
