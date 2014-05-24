@@ -21,7 +21,7 @@ good resource for this is
 satellite imagery of night lights.
 
 <img
-src="img/meteor-shower/Concord_Church__Dixon__OH_-_Google_Maps.png"
+src="/img/meteor-shower/Concord_Church__Dixon__OH_-_Google_Maps.png"
 class="img-left" /> I didn't want to actually camp at the Heuston Woods camp area. I
 figured on Memorial Day weekend it would be crowded and noisy. I
 called the park office and asked if I could just hang my hammock in one of the
@@ -41,7 +41,7 @@ days. As I got out of the car, I slammed my
 [right thumb](img/meteor-shower/thumb.jpg) in the door. That put a
 damper on most of the evening.
 
-<img src="img/meteor-shower/church.jpg" class="img-right" /> The church had a nice lawn for tent camping, but no trees good for
+<img src="/img/meteor-shower/church.jpg" class="img-right" /> The church had a nice lawn for tent camping, but no trees good for
 hanging. I drove down the road a bit and found a grove of trees
 between two fields. On one side of the street it was fenced off and
 posted. On the other it wasn't. I went back and parked my car at the
