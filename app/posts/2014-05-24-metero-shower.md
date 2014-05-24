@@ -102,7 +102,8 @@ quilt" to keep me warm.
 I set an alarm for 2am and tried to sleep. Camping out solo takes a
 bit of time to settle down with all the noises. Without the tarp
 overhead, I could get a good view of the sky. I could see many more
-stars than normal at home.
+stars than normal at home. Early on in the evening I did see a
+satellite pass overhead.
 
 Ultimately though, I didn't see any meteors. By all accounts I should
 have seen something. I think there were several factors working
