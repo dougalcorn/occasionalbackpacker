@@ -12,7 +12,8 @@ challenge of taking only what you can carry and covering a lot of
 ground.
 
 If you like, you can [email me](mailto:dougalcorn@gmail.com) or
-[follow me on Twitter](http://twitter.com/dougalcorn).
+[follow me on Twitter](http://twitter.com/dougalcorn). I've also got a
+killer spreadsheet showing all [my gear and weights](http://bit.ly/1cYM1Bg).
 
 If you want to go back to the beginning, you can read about how I
 [got started in backpacking](/posts/getting-started-backpacking.html).
