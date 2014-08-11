@@ -30,7 +30,7 @@ The hike to The Nose was also along the ridge of Mansfield. There's a toll road 
 
 After Jim left, the challenge really began. The trail down Mansfield was very steep. Many times I was turning around and scooting over the edge of rocks. Most of the time I wasn't sure of my footing before I had to put my weight on it. I'll be honest, I wasn't moving very fast. I was worried about falling and trying to be doubly sure before I stepped off. Being solo I didn't want to risk injury.
 
-<img src="/img/long-trail-vt/IMG_1164.jpg" class="img-left" />
+<img src="/img/long-trail-vt/IMG_1164.JPG class="img-left" />
 I made it down to the valley between Mansfield and Bolton at the Taylor Lodge. My goal was to get almost all the way up Bolton to the Puffin shelter before night. That was not to be. I hiked about an hour beyond Taylor, but was too tired to continue. The mosquitoes were coming out and really bothering me. I was anxious to rest in my hammock and bug net.  So I just hiked a bit off the trail and found a good place to hang. I thought I was all stealthy, but 30 minutes later I heard some hikers coming down the mountain, "What is that!?! Oh, it must be a hammock." I was a little sad I wasn't further off the trail.
 
 That night I woke up with drops on my face and my quilt feeling damp. I hadn't hung my tarp because I thought the weather was clear. It was plenty dark by now, but I popped up quick as I could and strung my tarp. No sooner did I finish and get back in the hammock it really started pouring. Not my best pitch, but it kept me dry all night.
@@ -45,7 +45,7 @@ I fixed lunch and coffee there on the summit. I was a little chilly in wet cloth
 
 By 1:30 I made it to the Puffin shelter. That was my completely unrealistic goal for the night before. It took me four hours after a night's rest to make it. There was a lovely couple at the shelter enjoying the view. They were thru hiking the LT and had previously done the AT and PCT. We talked a little about nothing. They said this was day 19 for them on the LT and it was still hard for them. They hadn't quite yet broken in their trail legs and this was a very tough trail. I could have stayed and talked with them all afternoon, but had miles to hike. Shortly after I left them, I came across another pair of thru hikers. They also comforted me with how tough the trail was. One of them was all bunged up and bleeding down his shin from a fall he'd had.
 
-<img src="/img/long-trail-vt/IMG_1165.jpg" class="img-left" />
+<img src="/img/long-trail-vt/IMG_1165.JPG" class="img-left" />
 I reached the summit of Bolton at 2:30. I'd been tring to text Peter to let him know where I was and how my plans had changed. I was getting very poor signal and no data at all. At the top of Bolton I got a text from him a thunderstorm was sweeping across Vermont and I should get off the mountain as soon as possible. I could hear the thunder clearly. I didn't have much more to go on; no weather maps and I couldn't get a call out either.
 
 <img src="/img/long-trail-vt/IMG_1162.jpg" class="img-right" />
