@@ -2,7 +2,8 @@
 title: "Easy overnight trip at Caesar Creek"
 date: "2013-12-21"
 ---
-<img class="img-left" src="/img/ready-to-go-cc.JPG" />I was looking for an easy way to test my Winter gear and [Doctari](https://www.hammockforums.net/forum/member.php?35-Doctari)
+<img class="img-left" src="/img/ready-to-go-cc.JPG" />
+I was looking for an easy way to test my Winter gear and [Doctari](https://www.hammockforums.net/forum/member.php?35-Doctari)
 suggested we just go to Caesar Creek. My regular hiking partner is my
 son, Justin. We ended up camping on his 13th Birthday.
 
@@ -24,8 +25,8 @@ clearly above our boots, neither Doctari nor I were excited to soak
 our feet. We hadn't hiked much, but Doctari suggested we take a break.
 He set up his "palace" tarp to get out of the rain. We fired up our
 respective stoves and did some cooking. I'd never seen someone else's
-alcohol stove in action, so that was neat. <img class="img-right"
-src="/img/under-the-tarp-cc.JPG" />
+alcohol stove in action, so that was neat.
+<img class="img-right" src="/img/under-the-tarp-cc.JPG" />
 
 After the rain stopped, we hiked around the gully where the swollen
 stream. After a couple more hours of hiking (and if you know Doctari,

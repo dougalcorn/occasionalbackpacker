@@ -20,9 +20,8 @@ good resource for this is
 [Blue Marble](http://blue-marble.de/nightlights/2012) showing
 satellite imagery of night lights.
 
-<img
-src="/img/meteor-shower/Concord_Church__Dixon__OH_-_Google_Maps.png"
-class="img-left" /> I didn't want to actually camp at the Heuston Woods camp area. I
+<img src="/img/meteor-shower/Concord_Church__Dixon__OH_-_Google_Maps.png" class="img-left" />
+I didn't want to actually camp at the Heuston Woods camp area. I
 figured on Memorial Day weekend it would be crowded and noisy. I
 called the park office and asked if I could just hang my hammock in one of the
 picnic areas to watch the meteor shower. "No."
@@ -41,7 +40,8 @@ days. As I got out of the car, I slammed my
 [right thumb](img/meteor-shower/thumb.jpg) in the door. That put a
 damper on most of the evening.
 
-<img src="/img/meteor-shower/church.jpg" class="img-right" /> The church had a nice lawn for tent camping, but no trees good for
+<img src="/img/meteor-shower/church.jpg" class="img-right" />
+The church had a nice lawn for tent camping, but no trees good for
 hanging. I drove down the road a bit and found a grove of trees
 between two fields. On one side of the street it was fenced off and
 posted. On the other it wasn't. I went back and parked my car at the
@@ -88,7 +88,8 @@ first night to sleep out in my new
 It has an bug net sewn into the hem of the hammock that zips off when not
 needed.
 
-<img src="http://note.io/RmYaZz" class="img-right" /> In the photo you
+<img src="http://note.io/RmYaZz" class="img-right" />
+In the photo you
 can see my setup. The bug net and hammock body are sewn together into
 an integrated "cocoon". The bug net is black and the hammock is a dark
 green. I have a down quilt that hangs directly under the hammock to
