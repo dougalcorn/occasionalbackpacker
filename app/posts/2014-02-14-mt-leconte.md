@@ -3,7 +3,8 @@ title: "Solo overnight trip up and down Mt. LeConte"
 date: "2014-02-14"
 ---
 
-<img src="/img/rainbow-falls-sign.jpg" class="img-right" />The weather was dicey when I went to Gatlinburg. My boys were headed
+<img src="/img/rainbow-falls-sign.jpg" class="img-right" />
+The weather was dicey when I went to Gatlinburg. My boys were headed
 to a youth retreat there for the weekend. My parents had come for the
 week prior. That Saturday was my mom's birthday. So I was headed down
 with my youngest to be with my mom on her birthday. I figured I could
@@ -29,7 +30,8 @@ head. Of course, I knew Clingman's Dome is the highest peak in the
 Smokies at 6644. Here's another thing I didn't know: Mt. Le Conte is
 6594; just 50' lower than the tallest peak.
 
-<img src="/img/snow-covered-trails.jpg" class="img-left" />The Great Smokie Mountain National Park is famous for many things.
+<img src="/img/snow-covered-trails.jpg" class="img-left" />
+The Great Smokie Mountain National Park is famous for many things.
 Among hikers one of the things it's famous for is requiring you to
 sleep in one of their designated campgrounds or shelters. As a hammock
 camper, I like to just find a good set of trees along the trail.
@@ -84,7 +86,8 @@ good time. I was headed up the Rainbow Falls trail which would join
 with Bullhead trail that would lead right up to the shelter on top of
 Mt. LeConte.
 
-<img src="/img/snow-creek.jpg" class="img-right" /> Right from the start, the trail is almost straight up. The trail head
+<img src="/img/snow-creek.jpg" class="img-right" />
+Right from the start, the trail is almost straight up. The trail head
 (and most of Gatlinburg) is at about 2500'. Before the day is over
 I'll climb over 4000 feet. There's probably 2 - 3" of snow on the
 trail. Sometimes you can actually see rocks peek through the snow, but
@@ -110,7 +113,8 @@ that it's flat on top with a rickety handrail nailed on. In both cases
 the handrail is leaning way out to the side so you almost have to lean
 over to touch it. The handrail has snow on it. The "bridge" has snow
 and ice on it. I'm very afraid of slipping off and falling into the
-icy water below. If that happens, I'm not sure what I would do. <img src="/img/bridge.jpg" class="img-left" />
+icy water below. If that happens, I'm not sure what I would do.
+<img src="/img/bridge.jpg" class="img-left" />
 
 Just shy of the falls, I pass two women "speed hiking" down the
 mountain. They are wearing trail running shoes, tights and t-shirts.

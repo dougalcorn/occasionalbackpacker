@@ -7,7 +7,8 @@ date: "2014-08-04"
 
 I am always thankful when I get time to be in the backcountry. This time my wife and coworkers picked up the slack while I took several days for an overnight trip in Vermont's Green Mountains. In addition, I recieved logistical support from new friends in Burlington. All of my time both in the city of Burlington and the nearby backcountry was fantastic; a true vacation.
 
-<img src="/img/long-trail-vt/IMG_1130.jpg" class="img-left" />I
+<img src="/img/long-trail-vt/IMG_1130.jpg" class="img-left" />
+I
 started in Underhill State Park with my friend, Jim Anders, hiked up
 the Sunset Ridge Trail to "The Chin" of Mt. Mansfield, then South on
 the Long Trail. Jim turned off at "The Forehead" to hike down alone to
@@ -16,17 +17,20 @@ Mansfield to the foot of Mt. Bolton where I camped that night. The
 next day I hiked to the summit of Bolton and then down to Bolton Notch
 Road where a friend, Peter, picked me up and returned me to civilization. All told I did at least 20 miles in 2 days. These were by far the toughest miles I've ever hiked.
 
-<img src="/img/long-trail-vt/IMG_1132.jpg" class="img-right"/>The first mile or so of the Sunset Ridge trail was fairly deep in conifers. It was raining, but we felt almost nothing due to the thick needles overhead. Pretty quick the trail seemed tough. Over the three miles of Sunser Ridge we climbed 2600 feet. The trail was up and over lots of stones and roots; much of it was hand and foot rock climbing. This early in the hike we were fresh and having fun. Each turn rewarded us with another beautiful scene.
+<img src="/img/long-trail-vt/IMG_1132.jpg" class="img-right"/>
+The first mile or so of the Sunset Ridge trail was fairly deep in conifers. It was raining, but we felt almost nothing due to the thick needles overhead. Pretty quick the trail seemed tough. Over the three miles of Sunser Ridge we climbed 2600 feet. The trail was up and over lots of stones and roots; much of it was hand and foot rock climbing. This early in the hike we were fresh and having fun. Each turn rewarded us with another beautiful scene.
 
 About half way up the trail we broke through the timberline. Mt. Mansfield is the highest point in Vermont. I'm told on a clear day you can see Montreal. It wasn't quite that clear, but we were rewarded with many beautiful views. I felt like we were hiking on the set of "Lord of the Rings". We were hiking directly up this rocky ridge line; sometimes hand and foot climbing. There was very little wildlife; not even birds singing or insects buzzing. It was still and quiet. After a while I commented to Jim, "It feels like we're the only people alive." Not five minutes later as we neared the summit we came across a father and son about to hike down the trail we had just come up.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/1-ZcXhqTU5o?rel=0" frameborder="0" allowfullscreen></iframe>
 
-It took us about three hours to make it up to The Chin. We were tired and I was soaking wet with sweat. Sadly, I had forgotten my wind/rain shell. It was pretty cool up on Mansfield, and I was getting uncomfortable without any protection. The cloud cover prevented us from having much of a view, so we didn't linger. <img src="/img/long-trail-vt/IMG_1149.jpg" class="img-right" />
+It took us about three hours to make it up to The Chin. We were tired and I was soaking wet with sweat. Sadly, I had forgotten my wind/rain shell. It was pretty cool up on Mansfield, and I was getting uncomfortable without any protection. The cloud cover prevented us from having much of a view, so we didn't linger.
+<img src="/img/long-trail-vt/IMG_1149.jpg" class="img-right" />
 
 The hike to The Nose was also along the ridge of Mansfield. There's a toll road that leads right up to The Nose, so there were quite a few tourist. It's a pretty easy mile or two from the road to the summit with lots of rewarding views. It was a little funny that Jim and I were so tired from our trip up Sunset Ridge hiking right next to a Grandma and her two little grand kids.
 
-<img src="/img/long-trail-vt/IMG_0055.jpg" class="img-left" />Jim and I parted ways and I was sad to see him go. I enjoy the solitude of the backcountry, but I like to enjoy it with friends. Jim had been great for conversation and pacing. I've only done a few solo hikes and I was nervous about this one. I had a bit of trouble arranging my trip. My goal was to hike and camp a night in the mountains. Unfortunately, I didn't have my own transportation so I needed help getting off the trail. The most convienient location to be picked up was also a bit further than I was really capable of hiking. Luckily there was another exit that saved me 5 miles. I'm positive I could not have hiked those last 5 miles. It turns out there was another exit that might have saved me an additional couple miles, but I wasn't familiar enough with the area and didn't have detailed enough maps.
+<img src="/img/long-trail-vt/IMG_0055.jpg" class="img-left" />
+Jim and I parted ways and I was sad to see him go. I enjoy the solitude of the backcountry, but I like to enjoy it with friends. Jim had been great for conversation and pacing. I've only done a few solo hikes and I was nervous about this one. I had a bit of trouble arranging my trip. My goal was to hike and camp a night in the mountains. Unfortunately, I didn't have my own transportation so I needed help getting off the trail. The most convienient location to be picked up was also a bit further than I was really capable of hiking. Luckily there was another exit that saved me 5 miles. I'm positive I could not have hiked those last 5 miles. It turns out there was another exit that might have saved me an additional couple miles, but I wasn't familiar enough with the area and didn't have detailed enough maps.
 
 After Jim left, the challenge really began. The trail down Mansfield was very steep. Many times I was turning around and scooting over the edge of rocks. Most of the time I wasn't sure of my footing before I had to put my weight on it. I'll be honest, I wasn't moving very fast. I was worried about falling and trying to be doubly sure before I stepped off. Being solo I didn't want to risk injury.
 
