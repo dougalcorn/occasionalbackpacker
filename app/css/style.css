@@ -1,17 +1,52 @@
-body {
-  font-size: 16px;
+@media only screen and (min-width: 768px) {
+  body {
+    font-size: 16px;
+  }
+
+  .img-left {
+    float:left;
+    width:408px;
+    margin: 15px;
+  }
+
+  .img-right {
+    float:right;
+    width:408px;
+    margin: 15px;
+  }
+  .img-full-width {
+    width: 100%;
+    margin: 15px;
+  }
 }
 
-.img-left {
-  float:left;
-  width:408px;
-  margin: 15px;
-}
+/* phones */
+@media only screen and (max-width: 767px) {
+  body {
+    line-height: 1.5em;
+  }
 
-.img-right {
-  float:right;
-  width:408px;
-  margin: 15px;
+  .navbar {
+    margin-bottom: 0;
+  }
+
+  .navbar li {
+    margin: 0;
+    padding: 0;
+    float: left;
+  }
+  .navbar li:first-child {
+    margin-left: 0px;
+  }
+  .navbar li a {
+    padding: 5px 15px;
+    margin: 0;
+  }
+
+  .img-left, .img-right, .img-full-width  {
+    width: 100%;
+    margin: 15px auto;
+  }
 }
 
 .img-full-width {
