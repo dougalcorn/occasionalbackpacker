@@ -3,7 +3,7 @@ title: "The East Fork Lake Backpacking Trail"
 date: "2014-10-16"
 ---
 
-<img src="/img/2014-fall-east-fork-lake/IMG_1238.jpg" class="img-full-width"/>
+<img src="/img/2014-fall-east-fork-lake/IMG_1238.JPG" class="img-full-width"/>
 
 I took a couple of days off to hike the Backpack Trail in East Fork
 State Park. I really enjoyed this trip. It was a nearly perfect two
@@ -45,7 +45,7 @@ could clearly hear cars on nearby highways. That didn't really bother
 me though. While I was hiking, my own coat and feet russling in the
 leaves made much more noise. At night I could still hear traffic
 sounds, but not enough to bother me.
-<img src="/img/2014-fall-east-fork-lake/IMG_1245.jpg" class="img-left"/>
+<img src="/img/2014-fall-east-fork-lake/IMG_1245.JPG" class="img-left"/>
 
 The trip itself was fairly uneventful. I started on the tail at about
 1pm. By 5pm I was tired and my feet hurt. I had wanted to get further
