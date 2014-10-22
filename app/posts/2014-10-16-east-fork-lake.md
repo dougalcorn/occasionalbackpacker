@@ -5,8 +5,8 @@ date: "2014-10-16"
 
 <img src="/img/2014-fall-east-fork-lake/IMG_1238.JPG" class="img-full-width"/>
 
-I took a couple of days off to hike the Backpack Trail in East Fork
-State Park. I really enjoyed this trip. It was a nearly perfect two
+I took a couple of days off to hike the Backpack Trail in [East Fork
+State Park](http://parks.ohiodnr.gov/eastfork). I really enjoyed this trip. It was a nearly perfect two
 days in a beautiful wood. The Fall colors had not quite "peaked", but
 nearly so. The Backpacking Trail is just over 8 miles in. I hiked
 about 6 of it in on a Thursday, then hiked it back out the next day.
