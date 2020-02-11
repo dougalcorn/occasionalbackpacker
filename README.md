@@ -14,6 +14,7 @@ Here's how to publish a new blog to the web in minutes:
 4. Run `lineman run` while you work on writing markdown files under `app/posts`
 5. Install [heroku](https://toolbelt.heroku.com) if you haven't, then run `heroku create --buildpack http://github.com/linemanjs/heroku-buildpack-lineman.git`
 6. Commit your post and `git push heroku master`, and your blog is hosted on the web with apache2!
+7. Or... connect the app on Heroku to your github repo and turn on automatic deployes
 
 ## Features
 
