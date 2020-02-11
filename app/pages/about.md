@@ -3,7 +3,7 @@ title: "About the Occasional Backpacker"
 ---
 I'm just an middle-aged guy who likes the backcountry. My day-job
 involves sitting on my butt in front of a computer and dealing with
-lots of people. Eventually it all gets too me and I have to escape.
+lots of people. Eventually it all gets to me and I have to escape.
 If I'm lucky I've already started planning a weekend away.
 
 I'm attracted to the backcountry because I like the quiet. I enjoy
